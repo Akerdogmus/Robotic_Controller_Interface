@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+
+<launch>
+	<node name="robotic_controller" pkg="robotic_controller" type="robotic_controller.py" output="screen" />
+
+</launch>
