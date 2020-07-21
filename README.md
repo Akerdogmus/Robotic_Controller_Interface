@@ -12,5 +12,4 @@ correct the lines with these topics.
 
 
 # Maintainer
-------------
-Alim Kerem ERDOĞMUŞ
+- Alim Kerem ERDOĞMUŞ
