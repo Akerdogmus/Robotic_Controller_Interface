@@ -1,6 +1,8 @@
 # Robotic_Controller_Interface
 This interface is a basic controller that allows simple movement controls of the robots that are operated on the ROS system and take the robot's instant position.
 
+![Image of Controller](https://github.com/Akerdogmus/Robotic_Controller_Interface/blob/master/interface.png?raw=true)
+
 # Issues
 
 If the robot's location information (odom info) cannot be obtained when you press the "connect" button, this may be because the robot's "odom" and "cmd_vel" topics have different names. To fix this problem, look at the naming of these two topics with the "rostopic list" command and copy these two names, in the "script / robotic_controller.py" file,
