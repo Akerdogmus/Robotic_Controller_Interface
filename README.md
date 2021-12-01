@@ -12,6 +12,6 @@ If the robot's location information (odom info) cannot be obtained when you pres
 
 correct the lines with these topics.
 
+## License
 
-# Maintainer
-- Alim Kerem ERDOĞMUŞ
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
